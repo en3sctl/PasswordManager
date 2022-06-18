@@ -1,3 +1,1 @@
-# <p align="left"> 
-                                <a href="https://www.github.com/en3sctl" target="_blank" rel="noreferrer"><img 
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+![LOGO-PJWSTK](https://user-images.githubusercontent.com/93399183/174452844-1adab3c1-67a0-47de-bc5d-1227a40d42e9.png)
